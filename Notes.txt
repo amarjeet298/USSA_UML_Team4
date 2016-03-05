@@ -1,0 +1,7 @@
+1. StarUML does not support array parameter type. Hence put String Array. Solution to be found.
+2. StarUML does not support array return type of the operation. Hence put String Array. Solution to be found.
+3. StarUML does not support generic class. Hence unable to put <E> for class IOHelper. Solution to be found.
+
+
+Question:
+1. Do we need get method for all private attributes ?
